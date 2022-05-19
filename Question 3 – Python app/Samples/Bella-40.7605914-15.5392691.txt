@@ -1,0 +1,1 @@
+[{"name":"Bella","lat":40.7605914,"lon":15.5392691,"country":"IT","state":"Basilicata"}]

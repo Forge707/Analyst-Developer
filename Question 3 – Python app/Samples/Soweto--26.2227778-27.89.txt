@@ -1,0 +1,1 @@
+[{"name":"Soweto","local_names":{"ko":"소웨토","he":"סווטו"},"lat":-26.2227778,"lon":27.89,"country":"ZA","state":"Gauteng"}]

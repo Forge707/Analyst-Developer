@@ -1,0 +1,1 @@
+[{"name":"Upington","local_names":{"uk":"Апінгтон","en":"Upington","ko":"어핑턴","ru":"Апингтон"},"lat":-28.456325,"lon":21.241867,"country":"ZA","state":"Northern Cape"}]

@@ -1,0 +1,1 @@
+[{"name":"Klerksdorp","local_names":{"en":"Klerksdorp","ru":"Клерксдорп"},"lat":-26.8625383,"lon":26.6656814,"country":"ZA","state":"North West"}]

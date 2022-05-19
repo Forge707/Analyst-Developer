@@ -1,1 +1,0 @@
-[{"name":"Cullinan","lat":-25.670556,"lon":28.528889,"country":"ZA","state":"Gauteng"}]

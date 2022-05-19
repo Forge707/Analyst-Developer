@@ -1,1 +1,0 @@
-[{"name":"Willowmore","lat":-33.29533,"lon":23.488296,"country":"ZA","state":"Eastern Cape"}]

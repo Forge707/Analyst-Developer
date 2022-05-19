@@ -1,0 +1,1 @@
+[{"name":"De Aar","local_names":{"en":"De Aar","ru":"Де-Ар"},"lat":-30.6505556,"lon":24.0075,"country":"ZA","state":"Northern Cape"}]

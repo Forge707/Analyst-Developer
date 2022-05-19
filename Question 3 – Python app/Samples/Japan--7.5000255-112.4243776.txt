@@ -1,0 +1,1 @@
+[{"name":"Japan","lat":-7.5000255,"lon":112.4243776,"country":"ID","state":"East Java"}]

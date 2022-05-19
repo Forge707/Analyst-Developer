@@ -1,0 +1,1 @@
+[{"name":"Durban","local_names":{"ar":"ديربان","zh":"德班","ru":"Дурбан","hi":"डरबन","ko":"더반","mr":"डरबन","ja":"ダーバン","te":"డర్బన్","kn":"ಡರ್ಬನ್","zu":"eThekwini","af":"Durban","sr":"Дурбан","eo":"Durbano"},"lat":-29.861825,"lon":31.009909,"country":"ZA","state":"KwaZulu-Natal"}]
