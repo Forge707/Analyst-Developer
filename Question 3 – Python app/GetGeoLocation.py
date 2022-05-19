@@ -17,8 +17,26 @@ LIMIT = '&limit=1&&'
 API_KEY = "appid=6c842471aabfff2ae2f180d84788f526"
 URL = BASE_URL + "q=" + CITY + LIMIT + API_KEY
 
+###Got to the API to get the Lon and Lat first
+###This is used to create the filename
+###Calling the API first to compare if we have a filename might be
+
+response = requests.get(URL)
+if response.text == '[]':
+   print('City: '+CITY+' Not Found Sorry, please try again!') 
+elif response.text == '{"cod":"400","message":"Nothing to geocode"}':
+   print('No results - You entered a blank city name')  
+   exit()
+
+data = response.json()
+Filepart1 = (str(data[0]['name']))
+Filepart2 = (str(data[0]['lat']))
+Filepart3 = (str(data[0]['lon']))
+filename = Filepart1+"-"+Filepart2+"-"+Filepart3+".txt"
 ## Filename will be stored
-filename = CITY+".txt"  
+#filename = CITY+".txt" 
+#print(filename)
+
 path_to_file = filename
 path = Path(path_to_file)
 
