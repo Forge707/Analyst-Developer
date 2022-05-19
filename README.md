@@ -1,2 +1,1 @@
-# Analyst-Developer
-Technical Test
+# Analyst-Developer Technical Test
