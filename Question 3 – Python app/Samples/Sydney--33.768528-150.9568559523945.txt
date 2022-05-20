@@ -1,0 +1,1 @@
+[{"name":"Sydney","local_names":{"mi":"Poihākena","mk":"Сиднеј","en":"Sydney","eo":"Sidnejo","ko":"시드니"},"lat":-33.768528,"lon":150.9568559523945,"country":"AU","state":"New South Wales"}]

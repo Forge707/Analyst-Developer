@@ -1,0 +1,1 @@
+[{"name":"Rustenburg","local_names":{"uk":"Рустенбург","en":"Rustenburg","eo":"Rustenburgo","ko":"루스텐버그","pt":"Rustemburgo","ru":"Рюстенбург"},"lat":-25.665655,"lon":27.241448,"country":"ZA","state":"North West"}]
