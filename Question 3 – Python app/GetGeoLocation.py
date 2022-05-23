@@ -11,7 +11,7 @@ def main():
    CITY = input("What is the name of your city?:  ") ##User needs to input
    print(" ")
    LIMIT = '&limit=1&&' 
-   API_KEY = "appid=6c842471aabfff2ae2f180d84788f526"
+   API_KEY = "appid="
    URL = BASE_URL + "q=" + CITY + LIMIT + API_KEY
 
    ###Got to the API to get the Lon and Lat first
@@ -109,7 +109,7 @@ def main():
             # Limit Results
          LAT = 'lat='+str(data[0]['lat'])
             # API key 
-         API_KEY = "units=metric&appid=6c842471aabfff2ae2f180d84788f526"
+         API_KEY = "units=metric&appid="
             # URL string combined
          URL = BASE_URL + LAT + LONG+'&' + API_KEY
             #print (URL)
